@@ -1,6 +1,6 @@
 # Simple ETL Pipeline
 
-A beginner-friendly Python script for basic data processing tasks that supports both CSV files and API data sources.
+A Python script for basic data processing tasks that supports both CSV files and API data sources.
 
 ##  Features
 
@@ -40,17 +40,17 @@ pip install pandas
 pip install requests  # Only if using API option
 ```
 
-## 🎯 Perfect For
+##  Perfect For
 
 - Learning ETL concepts
 - Data cleaning tasks
 - Quick data processing
 - Beginner Python projects
 
-## 👨‍💻 Author
+##  Author
 
 Pedro Siqueira - Data enthusiast learning ETL pipelines
 
 ---
 
-*Simple, clean, and educational - exactly what beginners need!*
+
