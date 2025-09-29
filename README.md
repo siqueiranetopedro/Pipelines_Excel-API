@@ -2,14 +2,14 @@
 
 A beginner-friendly Python script for basic data processing tasks that supports both CSV files and API data sources.
 
-## 📋 Features
+##  Features
 
 - **Extract**: Load data from CSV files or APIs
 - **Transform**: Remove duplicates and handle missing values  
 - **Load**: Export cleaned data to CSV format
 - **Beginner-friendly**: Simple, commented code perfect for learning
 
-## 🚀 Usage
+##  Usage
 
 ### Option 1: CSV File Input
 ```python
@@ -28,12 +28,12 @@ Uncomment the API section in the code:
 # data = pd.DataFrame(response.json())
 ```
 
-## 📁 Files
+##  Files
 
 - `simple_etl_pipeline.py` - Main ETL script
 - `cleaned_data.csv` - Output file (generated after running)
 
-## 🛠️ Requirements
+##  Requirements
 
 ```bash
 pip install pandas
