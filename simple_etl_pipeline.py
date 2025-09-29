@@ -1,5 +1,6 @@
 """
-Simple ETL Pipeline - Beginner Version
+Simple ETL Pipeline - Extract, Transform, Load
+This script extracts data from a CSV file or an API, cleans it, and saves the cleaned data to a new CSV file.
 Author: Pedro Siqueira
 """
 
